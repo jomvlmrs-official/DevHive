@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.errors.incompleteClasspath.severity": "warning",
+    "kotlin.languageServer.jvmargs": ["-Xmx1G"],
+    "python.formatting.provider": "black",
+    "sonarlint.connectedMode.servers": [
+      {
+        "serverId": "sonarcloud",
+        "serverUrl": "https://sonarcloud.io"
+      }
+    ]
+  }
